@@ -17,3 +17,5 @@ The scRNA-seq data used in this project was obtained from publicly available sou
 3. **Clustering**: Clustering analysis was carried out to group cells with similar gene expression profiles. This allowed for the identification of distinct cell populations, including T cells, within the breast cancer dataset.
 
 4. **Gene Identification**: Genes associated with T cells were identified through differential gene expression analysis. This step aimed to highlight genes that are specifically expressed in T cells or show significant differences in expression compared to other cell types.
+
+![](https://github.com/JoshTjan/Breast_Cancer_Tcells_SCRNA_Analysis_Project/blob/main/BC_Cluster_Labeled.png)
